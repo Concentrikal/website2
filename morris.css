@@ -1,0 +1,84 @@
+*{
+    margin: 5px;
+}
+
+body {
+    text-align: center;
+    background-color:rgb(205, 243, 255);
+}
+
+
+.box p {
+    text-align: center;
+
+}
+
+#box1{
+    background-color: #9FB8B4;
+    text-align: left;
+}
+
+#box1 img{
+    border-radius: 50%;
+}
+
+#box2{
+    background-color:#6C8184;
+    text-align: left;
+    
+}
+#box2 img{
+    border-radius: 50%;
+}
+
+#box3 img{
+    border-radius: 50%;
+}
+
+#box3{
+    background-color:#058cca;
+    text-align: left;
+}
+
+#follow-me {
+    background-color: #3863ee;
+    padding-top: 10px;
+
+}
+
+
+.button{
+     background-color: black;
+     border: 3px solid black;
+     color: white;
+     padding: 15px 32px;
+     text-align:center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 2px;
+     cursor:pointer;
+
+}
+
+
+.button:hover {
+    color: black;
+    background-color: white;
+}
+
+#subscribe{
+    background-color:#06798d;    
+    padding-top: 10px;
+}
+
+#subscribe img{
+    width: 200px;
+    height: 150px;
+
+}
+
+
+#footer{
+    background-color:#06798d;
+}
